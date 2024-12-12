@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Gaana-App/static/css/main.8fa51736.css",
+    "main.js": "/Gaana-App/static/js/main.d05eca9f.js",
+    "index.html": "/Gaana-App/index.html",
+    "main.8fa51736.css.map": "/Gaana-App/static/css/main.8fa51736.css.map",
+    "main.d05eca9f.js.map": "/Gaana-App/static/js/main.d05eca9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fa51736.css",
+    "static/js/main.d05eca9f.js"
+  ]
+}
